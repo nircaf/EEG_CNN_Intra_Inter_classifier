@@ -5,3 +5,11 @@
 </object>
 
 ![alt text](https://github.com/nircaf/EEG_CNN_Intra_Inter_classifier/blob/main/0001.jpg)
+![alt text](https://github.com/nircaf/EEG_CNN_Intra_Inter_classifier/blob/main/0002.jpg)
+![alt text](https://github.com/nircaf/EEG_CNN_Intra_Inter_classifier/blob/main/0003.jpg)
+![alt text](https://github.com/nircaf/EEG_CNN_Intra_Inter_classifier/blob/main/0004.jpg)
+![alt text](https://github.com/nircaf/EEG_CNN_Intra_Inter_classifier/blob/main/0005.jpg)
+![alt text](https://github.com/nircaf/EEG_CNN_Intra_Inter_classifier/blob/main/0006.jpg)
+![alt text](https://github.com/nircaf/EEG_CNN_Intra_Inter_classifier/blob/main/0007.jpg)
+![alt text](https://github.com/nircaf/EEG_CNN_Intra_Inter_classifier/blob/main/0008.jpg)
+![alt text](https://github.com/nircaf/EEG_CNN_Intra_Inter_classifier/blob/main/0009.jpg)
